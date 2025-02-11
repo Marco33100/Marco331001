@@ -1,6 +1,6 @@
 # Unidad I APLICACIONES DE IOT 2025
 
-## Marco Antonio Martinez Ramirez || Jose Antonio
+## Marco Antonio Martinez Ramirez
 
 ## PARTE TEÓRICA EXAMENES
 ### Marco Antonio Martinez Ramirez
@@ -18,8 +18,6 @@
 
 ### Examen final
 ![image](https://github.com/user-attachments/assets/b866ce21-92ee-49a5-ad22-fe6de5d9a8f6)
-
-### José Antonio 
 
 ## PARTE PRÁCTICA (En parejas)
 EJERCICIO DE SENSOR CON ACTUADOR
@@ -47,8 +45,6 @@ puntos)
 https://drive.google.com/file/d/1xM3JfrWA0lMj5K_Ry-hFJy4GnZ5Mod0d/view?usp=drive_link
 https://drive.google.com/file/d/1Y8zv3FIePnZT_g55qEfdrNo-XssG6J84/view?usp=drive_link
 
-### José Antonio 
-
 ## Ejercicios 3 y 4: Soldadura
 ### Marco Antonio Martinez Ramirez
 Foto de la placa
@@ -56,8 +52,6 @@ Foto de la placa
 
 Foto del auto soldado
 ![image](https://github.com/user-attachments/assets/366da492-589e-4940-bccd-ba67c2f5958a)
-
-### José Antonio 
 
 
 
