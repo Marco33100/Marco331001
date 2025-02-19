@@ -26,7 +26,7 @@ https://drive.google.com/file/d/1pW6Jal3lpCU_k3e7G89XG3M_OtOur8y1/view?usp=drive
 Código arriba
 
 Diagrama de conexión
-![image](https://github.com/user-attachments/assets/0b4010a5-7f32-41fe-830a-708a88788e10)
+![image](https://github.com/user-attachments/assets/1b22b738-98ef-4c6c-8b4b-4906260669ee)
 
 ## EJERCICIOS EN CLASE 
 ### Marco Antonio Martinez Ramirez
